@@ -2,13 +2,13 @@
 
 ![Project House Price Prediction](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Machine-Learning-Project-on-House-Price-Prediction.png?fit=1280%2C720&ssl=1)
 
-Welcome to the House Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
+Welcome to the Real Estate Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
 
 ---
 
 ## About the Project
 
-Are you curious about what drives house prices in your area? Wondering how different factors like location, square footage, or the number of bedrooms affect property values? Our House Price Prediction Project is here to provide answers.
+Are you curious about what drives house prices in your area? Wondering how different factors like location, square footage, or the number of bedrooms affect property values? This Real Estate Price Prediction Project is here to provide answers.
 
 Through the magic of Machine Learning, we've developed models that can predict house prices with incredible precision. Our project allows you to explore, experiment, and gain insights into the intriguing world of real estate economics.
 
@@ -36,7 +36,7 @@ Provide instructions on how to set up and run your project locally. Include any 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadMooazam/House-Price-Prediction-Project.git
+git clone https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning.git
 ```
 
 With the project now set up, you're just a few commands away from uncovering the secrets of real estate data.
@@ -67,6 +67,5 @@ Ready to predict the future of real estate? Let's get started!
 
 🏡 Happy predicting! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
+
 
