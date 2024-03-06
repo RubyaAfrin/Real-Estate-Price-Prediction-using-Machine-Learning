@@ -17,16 +17,16 @@ Through the magic of Machine Learning, we've developed models that can predict h
 ## Features
 
 ### 🧹 Data Preprocessing
-We've transformed and prepared the dataset, so you don't have to worry about messy data.
+We've transformed the dataset using data cleaning, feature engineering, dimensionaly reduction, outlier removal and so on.
 
 ### 📈 Data Visualization
-Explore our interactive visualizations to gain insights into how different features impact house prices.
+We've explored interactive visualizations of the features to gain insights how different features are distributed and can impact the house prices.
 
 ### 🤖 Machine Learning Models
-Our project employs state-of-the-art machine learning algorithms, including the Linear Regression Model, Decision Tree Regressor, and Random Forest Regressor, to predict house prices.
+Our project employs state-of-the-art machine learning algorithms, including the Linear Regression Model, Lasso Regression, Decision Tree Regressor, and Random Forest Regressor, to predict the house prices.
 
 ### 📊 Evaluation Metrics
-We measure model performance using a variety of metrics such as Root Mean Squared Error (RMSE), Standard Deviation, etc.
+We've measure model performance using a variety of metrics such as Root Mean Squared Error (RMSE), Standard Deviation, etc.
 
 ---
 
