@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction-using-Machine-Learning
 
-![Project House Price Prediction](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Machine-Learning-Project-on-House-Price-Prediction.png?fit=1280%2C720&ssl=1)
+![Project House Price Prediction](https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning/blob/main/img/house_price_prediction_ML.PNG)
 
 Welcome to the Real Estate Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
 
