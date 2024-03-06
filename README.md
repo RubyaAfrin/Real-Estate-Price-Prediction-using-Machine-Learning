@@ -57,7 +57,7 @@ We invite you to be a part of our exciting project! To get started:-
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE] (https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning/blob/main/LICENSE) file of this for details.
 
 ---
 
