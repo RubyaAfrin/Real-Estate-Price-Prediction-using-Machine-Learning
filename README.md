@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction-using-Machine-Learning
 
-![Project House Price Prediction](https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning/blob/main/img/house_price_prediction_ML.PNG)
+![Project House Price Prediction](https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning/blob/main/img/house.png)
 
 Welcome to the Real Estate Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
 
