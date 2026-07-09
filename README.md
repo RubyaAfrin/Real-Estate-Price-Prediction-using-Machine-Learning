@@ -1,4 +1,4 @@
-# Machine-Learning-Based-Real-Estate-Price-Prediction-Pipeline
+# Machine-Learning-Based-Real-Estate-Price-Prediction
 
 ![Project House Price Prediction](https://github.com/RubyaAfrin/Real-Estate-Price-Prediction-using-Machine-Learning/blob/main/img/house_price_prediction_ML.PNG)
 
